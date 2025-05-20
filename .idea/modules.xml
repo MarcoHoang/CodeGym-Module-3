@@ -6,16 +6,20 @@
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Create-Database/Create-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Create-Database/Create-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Create-Table/Create-Table.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Create-Table/Create-Table.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/Create-Table-Database/Create-Table-Database.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/Create-Table-Database/Create-Table-Database.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Data-Query/Data-Query.iml" filepath="$PROJECT_DIR$/Operation-Database/Data-Query/Data-Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Data-Query/Data-Query.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Data-Query/Data-Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Data-Query-Student/Data-Query-Student.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Data-Query-Student/Data-Query-Student.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Delete-Database/Delete-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Delete-Database/Delete-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Design-Database.iml" filepath="$PROJECT_DIR$/Design-Database/Design-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/ERD/ERD.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/ERD/ERD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Relational-Database/Exercise1/Exercise1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/Exercise2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Insert-Into-Database/Insert-Into-Database.iml" filepath="$PROJECT_DIR$/Operation-Database/Insert-Into-Database/Insert-Into-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Insert-Into-Database/Insert-Into-Database.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Insert-Into-Database/Insert-Into-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operation-Database/Operation-Database.iml" filepath="$PROJECT_DIR$/Operation-Database/Operation-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Operation-Database-Sale/Operation-Database-Sale.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Operation-Database-Sale/Operation-Database-Sale.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Relational-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Relational-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Exercise1/Student-Database/Student-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Exercise1/Student-Database/Student-Database.iml" />
     </modules>
