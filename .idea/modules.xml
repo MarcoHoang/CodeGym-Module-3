@@ -20,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/QuanLyBanHang/QuanLyBanHang.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/QuanLyBanHang/QuanLyBanHang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/QuanLySinhVien/QuanLySinhVien.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/QuanLySinhVien/QuanLySinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/QuanLyVatTu/QuanLyVatTu.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/QuanLyVatTu/QuanLyVatTu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Relational-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Relational-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Exercise1/Student-Database/Student-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Exercise1/Student-Database/Student-Database.iml" />
     </modules>
