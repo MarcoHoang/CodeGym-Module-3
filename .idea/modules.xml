@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codegym-Module-3.iml" filepath="$PROJECT_DIR$/Codegym-Module-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Common-Function.iml" filepath="$PROJECT_DIR$/Common-Function/Common-Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Practice4/CommonFunctionSQL/CommonFunctionSQL.iml" filepath="$PROJECT_DIR$/Common-Function/Practice4/CommonFunctionSQL/CommonFunctionSQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Create-Database/Create-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Create-Database/Create-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Create-Table/Create-Table.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Create-Table/Create-Table.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/Create-Table-Database/Create-Table-Database.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/Create-Table-Database/Create-Table-Database.iml" />
@@ -14,12 +16,15 @@
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Relational-Database/Exercise1/Exercise1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/Exercise2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Common-Function/Exercise4/Exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Exercise4/FunctionSQL/FunctionSQL.iml" filepath="$PROJECT_DIR$/Common-Function/Exercise4/FunctionSQL/FunctionSQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Insert-Into-Database/Insert-Into-Database.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Insert-Into-Database/Insert-Into-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operation-Database/Operation-Database.iml" filepath="$PROJECT_DIR$/Operation-Database/Operation-Database.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Operation-Database-Sale/Operation-Database-Sale.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Operation-Database-Sale/Operation-Database-Sale.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Practice4/Practice4.iml" filepath="$PROJECT_DIR$/Common-Function/Practice4/Practice4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/QuanLyBanHang/QuanLyBanHang.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/QuanLyBanHang/QuanLyBanHang.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/QuanLySinhVien/QuanLySinhVien.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/QuanLySinhVien/QuanLySinhVien.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/QuanLyVatTu/QuanLyVatTu.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/QuanLyVatTu/QuanLyVatTu.iml" />
