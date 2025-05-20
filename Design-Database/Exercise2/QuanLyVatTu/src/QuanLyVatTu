@@ -1,3 +1,10 @@
+- Các thực thể trong mô hình ERD là VATTU, PHIEUNHAP, PHIEUXUAT, DONDH, NHACC
+- Mối quan hệ 1-n: NHACC - DONDH
+- Mối quan hệ n-n: VATTU - PHIEUXUAT, VATTU - PHIEUNHAP, VATTU - DONDH
+- Thuộc tính đa trị: SĐT của NHACC  --> NHACC_SĐT(MANCC,SĐT)
+
+- Các bảng: 
+
 create database quanlyvattu;
 use quanlyvattu;
 
